@@ -1,4 +1,3 @@
-[Wednesday 15:28] Senathipathi Kannusamy
 #
 
 # Build
